@@ -1,0 +1,10 @@
+# Bootloader selection
+BOOTLOADER = atmel-dfu
+
+RGBLIGHT_ENABLE = no
+BACKLIGHT_ENABLE = yes
+
+AUTO_SHIFT_ENABLE = yes
+CAPS_WORD_ENABLE = yes
+AUTOCORRECT_ENABLE = yes
+
